@@ -1,5 +1,8 @@
 import React from "react";
 
-export const page = () => {
-  return <div>user</div>;
+// localhost:3000/user
+const Page = () => {
+  return <div>Hello User!!!</div>;
 };
+
+export default Page;
