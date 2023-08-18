@@ -17,13 +17,6 @@
 }
 
 body {
-  /* color: rgb(var(--foreground-rgb)); */
   color: #e6b450;
-  /* background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb)); */
   background-color: #0d1017;
 }
