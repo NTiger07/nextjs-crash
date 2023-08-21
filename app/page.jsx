@@ -4,6 +4,15 @@ export const metadata = {
   title: "Home",
 };
 
+// DYNAMIC METADATA
+// export async function generateMetadata({ params, searchparams }) {
+//   const product = await getProduct(params.id);
+
+//   return {
+//     title: product.title,
+//   };
+// }
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
